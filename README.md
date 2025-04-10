@@ -39,3 +39,4 @@ The code can also be run using scripts. The Examples directory contains two exam
 data that can be analyzed by RJMCMC. The user should cd in the Example directory in his 
 or her MATLAB and run the examples from there.  The synthetic data example runs quickly, 
 while the experimental data example requires some time to run.
+Please Note that the Actin data file was too  large and could not been uploaded here. This data set is included in the software package in nature website. Please download the software package using this link: https://www.nature.com/articles/s41598-019-50232-x#Sec21
